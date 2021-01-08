@@ -1,0 +1,10 @@
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Debug\notepad².csprojAssemblyReference.cache
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Debug\notepad_.Form1.resources
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Debug\notepad_.Properties.Resources.resources
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Debug\notepad².csproj.GenerateResource.cache
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Debug\notepad².csproj.CoreCompileInputs.cache
+C:\Users\alois\onedrive\notepad²\notepad²\bin\Debug\notepad².exe.config
+C:\Users\alois\onedrive\notepad²\notepad²\bin\Debug\notepad².exe
+C:\Users\alois\onedrive\notepad²\notepad²\bin\Debug\notepad².pdb
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Debug\notepad².exe
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Debug\notepad².pdb

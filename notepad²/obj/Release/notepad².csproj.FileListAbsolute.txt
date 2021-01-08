@@ -1,0 +1,19 @@
+C:\Users\alois\Desktop\notepad² - backup\notepad²\bin\Release\notepad².exe.config
+C:\Users\alois\Desktop\notepad² - backup\notepad²\bin\Release\notepad².exe
+C:\Users\alois\Desktop\notepad² - backup\notepad²\bin\Release\notepad².pdb
+C:\Users\alois\Desktop\notepad² - backup\notepad²\obj\Release\notepad_.Form1.resources
+C:\Users\alois\Desktop\notepad² - backup\notepad²\obj\Release\notepad_.Properties.Resources.resources
+C:\Users\alois\Desktop\notepad² - backup\notepad²\obj\Release\notepad².csproj.GenerateResource.cache
+C:\Users\alois\Desktop\notepad² - backup\notepad²\obj\Release\notepad².csproj.CoreCompileInputs.cache
+C:\Users\alois\Desktop\notepad² - backup\notepad²\obj\Release\notepad².exe
+C:\Users\alois\Desktop\notepad² - backup\notepad²\obj\Release\notepad².pdb
+C:\Users\alois\onedrive\notepad²\notepad²\bin\Release\notepad².exe.config
+C:\Users\alois\onedrive\notepad²\notepad²\bin\Release\notepad².exe
+C:\Users\alois\onedrive\notepad²\notepad²\bin\Release\notepad².pdb
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Release\notepad².csprojAssemblyReference.cache
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Release\notepad_.Form1.resources
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Release\notepad_.Properties.Resources.resources
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Release\notepad².csproj.GenerateResource.cache
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Release\notepad².csproj.CoreCompileInputs.cache
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Release\notepad².exe
+C:\Users\alois\onedrive\notepad²\notepad²\obj\Release\notepad².pdb
